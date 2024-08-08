@@ -7,7 +7,7 @@ class person:
 
 #self info of person
  def info(self):
-  print(f"{self.name} is a {self.occupation} his networth is{self.networth}")
+  print(f"{self.name} is a {self.occupation} his networth is {self.networth}")
 
 #list of person
 a = person()
